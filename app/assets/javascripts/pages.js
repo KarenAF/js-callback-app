@@ -3,6 +3,6 @@
 // var response = $.get('https://data.cityofchicago.org/resource/xzkq-xp2w.json');
 // console.log(response);
 
-$.get('https://data.cityofchicago.org/resource/xzkq-xp2w.json?$limit=10', function(response) {
+$.get('https://data.cityofchicago.org/resource/cjcg-yw47.json?$limit=10', function(response) {
   console.log(response);
 });
